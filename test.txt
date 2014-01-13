@@ -1,2 +1,3 @@
 отредачил
 тоже отредачил
+Hello from eclipse!
